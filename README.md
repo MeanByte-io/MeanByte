@@ -1,0 +1,2 @@
+# MeanByte
+Brazilian technology company
